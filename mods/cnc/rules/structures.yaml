@@ -114,7 +114,7 @@ NUK2:
 		Queue: Building.GDI, Building.Nod
 	Building:
 		Power: 200
-		Footprint: xx xx
+		Footprint: x_ xx
 		Dimensions: 2,2
 	Health:
 		HP: 700
